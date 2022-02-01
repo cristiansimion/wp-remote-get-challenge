@@ -1,0 +1,103 @@
+#cwremote-settings h2,
+#cwremote-settings h4 {
+    color: #444;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0 0 6px 0;
+}
+
+#cwremote-settings h2 {
+    margin-bottom: 0;
+}
+
+#cwremote-settings .settings-page-title {
+    height: 58px;
+    background-color: #fff;
+    font-size: 14px;
+    margin: 0 0 20px 0;
+    padding: 0 20px;
+}
+
+#cwremote-settings .settings-page-title a.tab {
+    border-bottom: 2px solid #fff;
+    box-shadow: none;
+    color: #666;
+    display: inline-block;
+    margin-right: 30px;
+    padding: 20px 0 18px 0;
+    text-decoration: none;
+}
+
+#cwremote-settings .settings-page-title a.tab.active {
+    border-bottom: 2px solid #FF982D;
+}
+
+.cwremote-settings-header {
+    border-top: 3px solid #FF982D;
+    padding: 24px 20px;
+}
+
+.cwremote-settings-header img {
+    display: block;
+    margin: 0;
+    max-width: 242px;
+}
+
+#wpcontent {
+    padding-left: 0 !important;
+    position: relative;
+}
+
+#cwremote-settings .page-content {
+    padding: 0 20px;
+}
+
+#cwremote-settings .btn {
+    border: 0;
+    border-radius: 3px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    text-shadow: none;
+    box-shadow: none;
+    outline: none;
+}
+
+#cwremote-settings .btn.btn-md {
+    font-size: 13px;
+    font-weight: 600;
+    padding: 8px 12px;
+    min-height: 35px;
+}
+
+#cwremote-settings .btn.btn-orange {
+    background-color: #FF982D;
+    border-color: #FF982D;
+    color: #fff;
+}
+
+#cwremote-settings .btn.btn-orange:hover,
+#cwremote-settings .btn.btn-orange:active,
+#cwremote-settings .btn.btn-orange:focus {
+    background-color: #f97f00;
+    border-color: #f97f00;
+}
+
+#cwremote-settings .row {
+    border-bottom: 1px solid #e4e4e4;
+    padding: 30px 0;
+    font-size: 14px;
+    line-height: 1.3;
+}
+
+#cwremote-settings .row.heading {
+    padding: 20px 0;
+}
+
+#cwremote-settings .row:first-of-type {
+    padding-top: 10px !important;
+}

@@ -1,0 +1,1 @@
+<div class="cwremote-ajax"><?php _e( 'Loading data, please wait...', CWREMOTE_TEXT_DOMAIN ); ?></div>
